@@ -2,7 +2,7 @@
 #EXTVLCOPT:http-user-agent=khichTivi
 https://play.stream-keycdn.com/live/thomohot.m3u8?wsSecret=77bd1e15ef73bb69914d21198bba3103&wsTime=1741706424&wsKeepTime=120
 #EXTINF:-1 tvg-id="tlchd" group-title="đá Gà live 🐔 " tvg-logo="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",TLC
-
+https://customer-3uryqrjg3kx0lyts.cloudflarestream.com/7bcc8978afdcf2c640b30f67d094a348/manifest/video.m3u8?parentOrigin=https%3A%2F%2Fvuagalive.livestream-cpc1.com
 #EXTINF:-1 tvg-id="kix" group-title="đá Gà live 🐔" tvg-logo="https://daga88z.net/wp-content/uploads/2025/03/admin-ajax-19-13-295x197.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Đá Gà 🐔 2 HD
 #EXTVLCOPT:http-user-agent=khichTivi
 
