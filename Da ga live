@@ -10,7 +10,7 @@ https://output2.congaden.live/congaden/CPC1-360.m3u8
 https://2348646950.global.cdnfastest.com/live/thomo/playlist.m3u8
 #EXTINF:-1 tvg-id="danga4" group-title="đá Gà live 🐔" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs3TcsunkpP0yRIwI8t1FTOBwXa3hizcvS9Q&s" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Đá Gà 🐔 4 HD
 #EXTVLCOPT:http-user-agent=khichTivi
-https://cock.choigaae888.com/cockfight/dagaae888/playlist.m3u8
+https://2348646950.global.cdnfastest.com/live/thomo/chunklist.m3u8
 #EXTINF:-1 tvg-id="danga5" group-title="đá Gà live 🐔 " tvg-logo="https://borntoloaf.co.uk/wp-content/uploads/2024/03/dagac4-logo-2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Đá Gà 5  🐔
-
+https://cock.choigaae888.com/cockfight/dagaae888/playlist.m3u8
 #EXTINF:-1 tvg-id="danga6" group-title="đá Gà live 🐔 " tvg-logo="https://borntoloaf.co.uk/wp-content/uploads/2024/03/dagac4-logo-2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Đá Gà 6 🐔
