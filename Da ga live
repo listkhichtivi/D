@@ -1,8 +1,8 @@
 #"'",,,by khích*""cập nhật ngày 11 tháng 3 năm 2025
-#EXTINF:-1 tvg-id="danga1" group-title="đáGàlive🐔"tvg-logo="https://sabong67.bz/wp-content/uploads/2025/02/logo.png"catchup="append"catchup-days="2"catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Đá Gà 🐔 1 HD
+#EXTINF:-1 tvg-id="danga1" group-title="đáGàlive🐔"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ut0eBFrbAVckCLYYuH5F2PvtITMKt1JeqRCX42N6Ow&s"catchup="append"catchup-days="2"catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Đá Gà 🐔 1 HD
 #EXTVLCOPT:http-user-agent=khichTivi
 https://output2.congaden.live/congaden/THOMOHOT-360.m3u8
-#EXTINF:-1 tvg-id="danga2" group-title="đáGàlive🐔"tvg-logo="https://daga88z.net/wp-content/uploads/2025/03/admin-ajax-19-13-295x197.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Đá Gà 🐔 2 HD
+#EXTINF:-1 tvg-id="danga2" group-title="đáGàlive🐔"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrK2ounj0pF8c5O6QFsivSFktaC6NWcE0gS63-x90Zzw&s" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Đá Gà 🐔 2 HD
 #EXTVLCOPT:http-user-agent=khichTivi
 https://output2.congaden.live/congaden/CPC1-360.m3u8
 #EXTINF:-1 tvg-id="Daga3" group-title="đá Gà live 🐔 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSTpPW16Wq5eSzHjys24mzB9Zq8FVNYyColA&s" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Đá Gà 3 🐔 
