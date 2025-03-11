@@ -8,7 +8,7 @@ https://customer-3uryqrjg3kx0lyts.cloudflarestream.com/7bcc8978afdcf2c640b30f67d
 
 #EXTINF:-1 tvg-id="tlchd" group-title="đá Gà live 🐔 " tvg-logo="6https://daga88z.net/wp-content/uploads/2024/01/ep-can-ga-da-2-295x197.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Đá Gà 3 🐔 
 
-#EXTINF:-1 tvg-id="kix" group-title="đá Gà live 🐔" tvg-logo="https://borntoloaf.co.uk/wp-content/uploads/2024/03/dagac4-logo-2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Đá Gà 🐔 4 HD
+#EXTINF:-1 tvg-id="kix" group-title="đá Gà live 🐔" tvg-logo="htps://borntoloaf.co.uk/wp-content/uploads/2024/03/dagac4-logo-2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Đá Gà 🐔 4 HD
 #EXTVLCOPT:http-user-agent=khichTivi
 
 #EXTINF:-1 tvg-id="tlchd" group-title="đá Gà live 🐔 " tvg-logo="https://borntoloaf.co.uk/wp-content/uploads/2024/03/dagac4-logo-2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Đá Gà 5 🐔
