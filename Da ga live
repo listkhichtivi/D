@@ -5,7 +5,7 @@ https://output2.congaden.live/congaden/THOMOHOT-360.m3u8
 #EXTINF:-1 tvg-id="danga2" group-title="đáGàlive🐔"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrK2ounj0pF8c5O6QFsivSFktaC6NWcE0gS63-x90Zzw&s" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Đá Gà 🐔 2 HD
 #EXTVLCOPT:http-user-agent=khichTivi
 https://output2.congaden.live/congaden/CPC1-360.m3u8
-#EXTINF:-1 tvg-id="Daga3" group-title="đá Gà live 🐔 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSTpPW16Wq5eSzHjys24mzB9Zq8FVNYyColA&s" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Đá Gà 3 🐔 
+#EXTINF:-1 tvg-id="Daga3" group-title="đá Bóng live ⚽"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSTpPW16Wq5eSzHjys24mzB9Zq8FVNYyColA&s" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Đá Gà 3 🐔 
 #EXTVLCOPT:http-referrer
 https://2348141868.global.cdnfastest.com/live/thomo/chunklist.m3u8
 #EXTINF:-1 tvg-id="danga4" group-title="đá Gà live 🐔" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs3TcsunkpP0yRIwI8t1FTOBwXa3hizcvS9Q&s" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Đá Gà 🐔 4 HD
