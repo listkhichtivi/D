@@ -7,7 +7,7 @@ https://output2.congaden.live/congaden/THOMOHOT-360.m3u8
 https://output2.congaden.live/congaden/CPC1-360.m3u8
 #EXTINF:-1 tvg-id="Daga3" group-title="đá Bóng live ⚽"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSTpPW16Wq5eSzHjys24mzB9Zq8FVNYyColA&s" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Đá Gà 3 🐔 
 #EXTVLCOPT:http-referrer
-http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2f37e9d8-bdac-4d46-949d-ccfbf76dd6e0&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="danga4" group-title="đá Gà live 🐔" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs3TcsunkpP0yRIwI8t1FTOBwXa3hizcvS9Q&s" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Đá Gà 🐔 4 HD
 #EXTVLCOPT:http-referrer
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
