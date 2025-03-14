@@ -7,7 +7,7 @@ https://output2.congaden.live/congaden/THOMOHOT-360.m3u8
 https://output2.congaden.live/congaden/CPC1-360.m3u8
 #EXTINF:-1 tvg-id="Daga3" group-title="đá Bóng live ⚽"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSTpPW16Wq5eSzHjys24mzB9Zq8FVNYyColA&s" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Đá Gà 3 🐔 
 #EXTVLCOPT:http-referrer
-https://live5.k8v4dh4.app/live/33982309.m3u8?txSecret=639d65cac939d1725d52d7e66ba7d18b&txTime=196259D927A
+https://stream1.freetv.fun/f321a35cdd093250058343b771bb7e4d22f7522692b7d421ca5dbe341e6828ed.m3u8
 #EXTINF:-1 tvg-id="danga4" group-title="đá Gà live 🐔" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs3TcsunkpP0yRIwI8t1FTOBwXa3hizcvS9Q&s" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Đá Gà 🐔 4 HD
 #EXTVLCOPT:http-referrer
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
